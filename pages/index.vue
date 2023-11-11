@@ -6,7 +6,7 @@
     // name: 'index',
     // alias: 'index',
     title: 'Home',
-    description: 'Style Up Your Life!',
+    description: 'Sip, Savor, and Spark Ideas at The AI Cafe!',
     navOrder: 1,
     type: 'primary',
     icon: 'i-mdi-home',
