@@ -1,16 +1,16 @@
 {
-  "name": "pg-nuxt-vuetify-tailwindcss",
+  "name": "the-ai-cafe",
   "version": "0.0.0",
   "homepage": "https://pg-nuxt-vuetify-tailwindcss.netlify.app",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pinegrow/pg-nuxt-vuetify-tailwindcss.git"
+    "url": "https://github.com/pinegrow/the-ai-cafe.git"
   },
   "scripts": {
     "dev": "nuxt dev",
     "now": "npm run build && npm run preview",
     "lighthouse:dev": "npx unlighthouse --no-cache --site http://localhost:3000",
-    "lighthouse": "npx unlighthouse --no-cache --site https://pg-nuxt-vuetify-tailwindcss.netlify.app",
+    "lighthouse": "npx unlighthouse --no-cache --site https://the-ai-cafe.netlify.app",
     "build": "nuxt build",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
