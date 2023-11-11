@@ -38,6 +38,7 @@
   <div>
     <NavBar></NavBar>
     <HeroSection />
+    <section></section>
   </div>
 </template>
 <style scoped></style>
