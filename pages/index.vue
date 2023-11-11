@@ -37,6 +37,7 @@
 <template>
   <div>
     <NavBar></NavBar>
+    <HeroSection />
   </div>
 </template>
 <style scoped></style>
